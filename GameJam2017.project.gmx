@@ -9,9 +9,11 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_planet</sprite>
     <sprite>sprites\spr_floor</sprite>
+    <sprite>sprites\spr_this</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts"/>
   <objects name="objects">
     <object>objects\obj_controller</object>
     <object>objects\obj_player</object>
@@ -21,6 +23,7 @@
     </objects>
     <object>objects\obj_floor</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
