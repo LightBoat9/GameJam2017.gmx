@@ -8,6 +8,10 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts"/>
+  <timelines name="timelines">
+    <timeline>timelines\test</timeline>
+  </timelines>
   <help>
     <rtf>help.rtf</rtf>
   </help>
